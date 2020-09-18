@@ -17,9 +17,7 @@ import java.util.Scanner;
 public class BookCar {
 
 	static boolean firstFlag = true;
-	static {
-		
-	}
+
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		List<Car> availableCars = new ArrayList<Car>();
